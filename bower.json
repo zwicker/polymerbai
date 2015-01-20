@@ -1,0 +1,22 @@
+{
+  "name": "polymerbai",
+  "version": "0.0.1",
+  "authors": [
+    "zwicker"
+  ],
+  "description": "Polymer BAI APP",
+  "moduleType": [
+    "node"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "polymer": "Polymer/polymer#~0.5.2"
+  }
+}
